@@ -1,0 +1,1 @@
+Sitemap: https://dquittard.github.io/fastpages-blog/sitemap.xml
